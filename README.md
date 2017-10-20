@@ -1,6 +1,6 @@
 # Set up
 ```
-git clone 
+git clone https://github.com/YukiKuroshima/simple-flask-API.git
 pip3 install -r requirements.txt
 python3 run.py
 ```
